@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695991856 source:c:\users\administrator\source\repos\trainingproject\trainingproject\codeblocks\ctraining\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1695992065 source:c:\users\administrator\source\repos\trainingproject\trainingproject\codeblocks\ctraining\test.c
+
+1695997505 source:c:\users\administrator\source\repos\trainingproject\trainingproject\codeblocks\ctraining\variables.c
+
+1695997327 source:c:\users\administrator\source\repos\trainingproject\trainingproject\codeblocks\ctraining\scanf.c
+
+1695997660 source:c:\users\administrator\source\repos\trainingproject\trainingproject\codeblocks\ctraining\gets.c
+
+1695998175 source:c:\users\administrator\source\repos\trainingproject\trainingproject\codeblocks\ctraining\aritmethic_operators.c
+
