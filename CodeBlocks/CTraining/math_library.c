@@ -1,5 +1,5 @@
 
-int main()
+int Variables()
 {
     //printf("%d", abs(-5));
     int y = pow(2,5);

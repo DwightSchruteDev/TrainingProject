@@ -1,6 +1,21 @@
 
 int variables()
 {
+    /*
+    ###Data Type###  ###printf()### ###scanf()###
+    char(1,2)           %c              %c
+    int                 %d              %d
+    unsigned int        %u              %u
+    short int           %hd             %hd
+    unsigned short int  %hu             %hu
+    long int            %ld             %ld
+    unsigned long int   %lu             %lu
+    float               %f              %f
+    double              %f              %lf
+    long double         %Lf             %Lf
+    //signed veri tuleri negatif degerler alabiliyor. Veri tipini unsigned yaparak alabilecehi deger sayisini artirabilirsin. Orn.: signed char -128 ile 127 arasinda deger alabiliyor. Unsigned char ise 0 ile 255 arasinde deger alabiliyor.
+    */
+
     //int: 4 bytes - Write Format: %d
     printf("===SUBJECT: INT===\n");
     int x;

@@ -3,6 +3,7 @@ int scanfMethod ()
 {
     int x;
     printf("Enter a number:");
+    //if u need a user answer, use &
     scanf("%d", &x);
     printf("Your entered number: %d", x);
 

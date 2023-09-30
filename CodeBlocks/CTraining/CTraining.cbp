@@ -34,6 +34,12 @@
 		<Unit filename="aritmethic_operators.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="casting.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="conditialExpression.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="gets.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -47,6 +53,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test1.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="variables.c">
