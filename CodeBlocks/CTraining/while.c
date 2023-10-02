@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int whileTest()
 {
     int count = 1;
     while(count<=5)
