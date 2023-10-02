@@ -73,6 +73,9 @@
 		<Unit filename="variables.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="while.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
