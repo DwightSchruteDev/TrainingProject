@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int calculatorTest(int argc, char const *argv[])
+int main(int argc, char const *argv[])
 {
     int option, firstNumber, secondNumber, conclucion;
     do
@@ -24,18 +24,20 @@ int calculatorTest(int argc, char const *argv[])
         scanf("%d", &secondNumber);
 
         //Operation
-        if (option == 1)
+        switch (option)
         {
+        case 1:
             conclucion = firstNumber + secondNumber;
-        } else if (option == 2)
-        {
+            break;
+        case 2:
             conclucion = firstNumber - secondNumber;
-        } else if (option == 3)
-        {
+            break;
+        case 3:
             conclucion = firstNumber * secondNumber;
-        } else if (option == 4)
-        {
+            break;
+        case 4:
             conclucion = firstNumber / secondNumber;
+            break;
         }
 
         //Response:
